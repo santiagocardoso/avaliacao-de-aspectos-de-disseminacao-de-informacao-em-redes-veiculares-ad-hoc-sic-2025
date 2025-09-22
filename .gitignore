@@ -1,0 +1,8 @@
+minuet/utils/tcl/video_stream/*
+minuet/test/*
+minuet/helper/*
+minuet/doc/*
+minuet/build/*
+minuet/utils/log/*
+!minuet/utils/log/concordancia.py
+!minuet/utils/log/grafico.py
