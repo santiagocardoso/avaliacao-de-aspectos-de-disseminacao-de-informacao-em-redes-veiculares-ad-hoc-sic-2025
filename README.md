@@ -9,7 +9,7 @@ AVALIAÇÃO DE ASPECTOS DE DISSEMINAÇÃO DE INFORMAÇÃO EM REDES VEICULARES AD
 
 ## Abrir container pelo Dev Containers
 `Ctrl + Shift + P`  
-`Open Folder in Container...`
+`Open Folder in Container...`  
 `.../avaliacao-de-aspectos-de-disseminacao-de-informacao-em-redes-veiculares-ad-hoc-sic-2025/`
 
 ## Abrir container pelo terminal
