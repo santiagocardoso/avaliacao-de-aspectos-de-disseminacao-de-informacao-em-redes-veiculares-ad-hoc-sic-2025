@@ -1,5 +1,5 @@
-# IC Gradis Sociable Fork
-Este repositório é um fork do projeto SOCIABLE desenvolvido pelo laboratório LUMO da UFPB, com alterações na função RelayElection.
+# SIC 2025
+AVALIAÇÃO DE ASPECTOS DE DISSEMINAÇÃO DE INFORMAÇÃO EM REDES VEICULARES AD HOC.
 
 ## Clonar a pasta do projeto
 `make copy-sociable`
